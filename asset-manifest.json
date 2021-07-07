@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/cezarpauna/PhoneBook/static/js/main.16b79c83.chunk.js",
+    "main.js.map": "/cezarpauna/PhoneBook/static/js/main.16b79c83.chunk.js.map",
+    "runtime-main.js": "/cezarpauna/PhoneBook/static/js/runtime-main.01294432.js",
+    "runtime-main.js.map": "/cezarpauna/PhoneBook/static/js/runtime-main.01294432.js.map",
+    "static/js/2.401b6d5d.chunk.js": "/cezarpauna/PhoneBook/static/js/2.401b6d5d.chunk.js",
+    "static/js/2.401b6d5d.chunk.js.map": "/cezarpauna/PhoneBook/static/js/2.401b6d5d.chunk.js.map",
+    "index.html": "/cezarpauna/PhoneBook/index.html",
+    "static/js/2.401b6d5d.chunk.js.LICENSE.txt": "/cezarpauna/PhoneBook/static/js/2.401b6d5d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01294432.js",
+    "static/js/2.401b6d5d.chunk.js",
+    "static/js/main.16b79c83.chunk.js"
+  ]
+}
